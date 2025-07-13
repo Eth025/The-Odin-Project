@@ -1,0 +1,19 @@
+.default-class {
+    background-color: #ffb7b7;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.updated-class {
+    font-size: 24px; 
+}
+
+#blue-title {
+    color:#0000ff;
+    font-size: 36px
+}
+
+#green-highlight {
+    background-color: #90ee90;
+    font-size: 24px; 
+    font-weight: bold; 
+}
